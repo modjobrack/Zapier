@@ -15,3 +15,6 @@ The following calculation was used in Tableau to determine when a user was Activ
 Status: IF [Difference in Days] < 28 then "Active" ELSEIF [Difference in Days] < 56 then "Churn" ELSE "Inactive" END
 
 The attached Tableau Packaged Workbook contains the visualizations. There are screenshots of the report as well.
+Find packaged workbook here: https://www.dropbox.com/s/sqcw9vxlr90xwft/ZapierTakeHome.twbx?dl=0 
+
+
