@@ -1,6 +1,5 @@
 # Zapier Take Home
 
-Part One:
 
 Ingesting the data- Using pgAdmin I connected to the server and downloaded the data.
 
