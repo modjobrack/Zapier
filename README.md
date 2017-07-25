@@ -1,4 +1,4 @@
-#Zapier Take Home
+# Zapier Take Home
 
 Ingesting the data- Using pgAdmin I connected to the server and downloaded the data.
 
